@@ -14,5 +14,9 @@ To download the files, go to the main repository page - available at: https://gi
 
 Or, if you know what you're doing with GitHub - you can clone the repo and grab the files as you need them!
 
+If you have any issues, please head over the Issues tab (available next to the <> Code tab) and see if anyone else has asked about your issue, if not, just create a new one and let us know about it. 
+
+Any questions/issues related to lesson content - not related to the files - should be sent to psychtech@lincoln.ac.uk - please don't put them in issues for the repository.
+
 Good luck and have fun!
 
