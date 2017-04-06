@@ -9,5 +9,10 @@ Completing the course will reward a certificate - completing the Digital Skills 
 The Digital Skills sessions are meant to enable people to use tools like the Office Suite, as well as things like basic video and audio
 editing to their advantage - for their own personal use or for standing out professionally. 
 
+To download the files, go to the main repository page - available at: https://github.com/Makataui/Digital-Skills-Excel and use the green
+"Clone or Download" button to download the ZIP version of this series - you will get all of the lessons, folders available. 
+
+Or, if you know what you're doing with GitHub - you can clone the repo and grab the files as you need them!
+
 Good luck and have fun!
 
